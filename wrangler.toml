@@ -1,4 +1,4 @@
-name = "firebase-auth-worker"
+name = "1"
 main = "src/index.ts"
 compatibility_date = "2025-07-29"
 compatibility_flags = ["nodejs_compat"]
